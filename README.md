@@ -6,13 +6,13 @@ In this analysis, data cleaning and raw data preprocessing, data visualization, 
 •Understand passenger usage patterns.
 •Evaluate the performance of different transport modes.
 •Analyze how trip characteristics impact customer experience.
-# Result of the analysis
+#### Result of the analysis
 ## How days of the week affect Mode of transport
 Tram has the highest passenger count on Fridays which is the most travelled day followed by the Ferry which happenes on thursdays
 the train has the lowest passenger count on sundays
 On Mondays, the train has the highest passenger count
 while passenger counts has begun to reduce for Ferry, Bus and Train, it has started to peak for the Tram
-## Correllation performance between the passenger count, total amount, trip duration and fare amount and Results
+#### Correllation performance between the passenger count, total amount, trip duration and fare amount and Results
 There is a strong correllation between passenger count and Total amount at 0.66,
 this means passenger count determines the total amount.
 There is a weak negative correlation of -0.04 between fare amount and trip duration,
